@@ -1,0 +1,26 @@
+# Java
+*.class
+*.log
+*.jar
+/build/
+target/
+
+# Gradle
+.gradle/
+
+# Node
+node_modules/
+.next/
+npm-debug.log*
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+

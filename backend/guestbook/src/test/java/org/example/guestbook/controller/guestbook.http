@@ -1,0 +1,12 @@
+### POST
+POST http://localhost:8080/api/guestbooks
+Content-Type: application/json
+
+{
+  "nickname": "정재윤",
+  "content": "backend 개발하기"
+}
+
+### GET
+GET http://localhost:8080/api/guestbooks
+Accept: application/json
