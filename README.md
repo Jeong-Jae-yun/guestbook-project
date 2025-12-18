@@ -8,6 +8,6 @@ Spring Boot + Next.js 기반 방명록 프로젝트
 - Infra: Docker, Docker Compose
 
 ## Goal
-- Docker 기반 컨테이너화
 - AWS EC2 배포
 - CI/CD 구축
+- 문서 작성 완료
